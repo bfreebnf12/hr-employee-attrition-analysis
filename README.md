@@ -56,6 +56,7 @@ Three constant columns (`EmployeeCount`, `StandardHours`, `Over18`) were dropped
 
 ## Files
 
+- `hr_attrition.sql` — BigQuery queries for aggregation
 - `hr_attrition_analysis.ipynb` — Python analysis with charts ([open in Colab](https://colab.research.google.com/github/bfreebnf12/hr-employee-attrition-analysis/blob/main/hr_attrition_analysis.ipynb))
 
 ## Author
